@@ -1,0 +1,47 @@
+.container {
+    margin: auto;
+    margin-top: 200px;
+    max-width: 600px;
+    padding: 16px;
+    background-color: white;
+    border: 1px dotted rgb(238, 192, 108);
+    border-radius: 8px;
+}
+
+/* Full-width input fields */
+.input-login {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+.input-login:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-size: 18px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    background-color: #04AA6D;
+}
+
+.registercard {
+    margin-top: 30px;
+    display: block;
+    width: 100%;
+    text-decoration: none;
+}

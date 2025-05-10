@@ -1,0 +1,31 @@
+.register {
+    margin: auto;
+    margin-top: 200px;
+    max-width: 600px;
+    padding: 16px;
+    background-color: white;
+    border: 1px dotted rgb(238, 192, 108);
+    border-radius: 8px;
+}
+
+/* Full-width input fields */
+.input-login {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+.input-login:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.err {
+    color: rgb(247, 5, 5);
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+}
